@@ -35,7 +35,7 @@ In this video, we will do 2 Test automation examples with NodeJS based Webdriver
 - Open a new terminal window, Navigate to the project folder and Run the tests with this command "npm run wdio". The automation code will be executed for your installed Facebook app on your device.
 - Execute this command "allure open" on the terminal after test has been finished. That will automatically open a browser windows to show the test results.
 
-![image](https://user-images.githubusercontent.com/89974862/169106533-25be271a-a7c9-448b-8287-76dfaba42e0b.png)
+![image](https://user-images.githubusercontent.com/89974862/169106625-5303a18a-f72f-4146-a249-c27513eb116d.png)
 
 
 **Resources:**
