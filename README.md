@@ -17,6 +17,9 @@ In this video, we will do 2 Test automation examples with NodeJS based Webdriver
 - NodeJS Installation
 - WebdriverIO Installation via Terminal or Command Line
   - npm install --save-dev @wdio/cli
+- Appium Server Installation via Terminal or Command Line (Not required for Chrome web automation)
+  - npm install -g appium  
+- Android Studio installation with latest SDK and command line tools (Not required for Chrome web automation)
 
 **Web browser automation (Chrome) with WebdriverIO**
 - Open Terminal or CMD window
@@ -44,3 +47,4 @@ In this video, we will do 2 Test automation examples with NodeJS based Webdriver
 - https://webdriver.io/
 - https://docs.qameta.io/allure/#_mocha
 - https://appium.io/
+- https://developer.android.com/studio
